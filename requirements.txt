@@ -49,5 +49,4 @@ setuptools>=65.5.1 # Snyk vulnerability fix
 # pycocotools>=2.0.6  # COCO mAP
 streamlit
 paramiko
-cv2
 glob
