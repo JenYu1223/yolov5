@@ -49,5 +49,5 @@ setuptools>=65.5.1 # Snyk vulnerability fix
 # pycocotools>=2.0.6  # COCO mAP
 streamlit
 paramiko
-from image_crop import image_crop
-from detect_bug import parse_opt, main
+image_crop
+detect_bug
