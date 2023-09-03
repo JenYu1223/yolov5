@@ -74,7 +74,7 @@ with tab5:
     image5 = Image.open(
         './upload_images_website/29032450.jpg')
     st.image(image5)
-    st.markdown("<h2 style='text-align: center;'>區域：左上</h2>", unsafe_allow_html=True)
+    st.markdown("<h2 style='text-align: center;'>區域：左下</h2>", unsafe_allow_html=True)
 with tab6:
     uploaded_file = st.file_uploader("Choose a file")
     if uploaded_file is not None:
